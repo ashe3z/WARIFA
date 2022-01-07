@@ -24,7 +24,7 @@ import urllib.request
 
 global geolat
 global geolon
-api_key = "c70cd1c03e01975fd4d6a77c75c85d53"
+api_key = "Your API key"
 
 def get_weathers():
     city_name= entry_usercity.get()
