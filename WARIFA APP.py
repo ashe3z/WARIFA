@@ -24,7 +24,7 @@ import urllib.request
 
 global geolat
 global geolon
-api_key = "Your API key"
+api_key = "Your API key, Get one from the Openweather page"
 
 def get_weathers():
     city_name= entry_usercity.get()
